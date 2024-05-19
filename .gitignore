@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-node_modules
-=======
 # compiled output
 /dist
 /node_modules
@@ -59,4 +56,3 @@ pids
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 .vercel
->>>>>>> a51e120376e2d7bc4bffe0bb7410d3ca20f4b0ff

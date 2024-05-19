@@ -1,16 +1,4 @@
 {
-<<<<<<< HEAD
-    "version": 2,
-    "builds": [{ "src": "dist/main.js", "use": "@vercel/node" }],
-    "routes": [
-      {
-        "src": "/.*",
-        "dest": "dist/main.js",
-        "methods": ["GET", "POST", "PUT", "DELETE"]
-      }
-    ]
-  }
-=======
   "version": 2,
   "builds": [{ "src": "dist/main.js", "use": "@vercel/node" }],
   "routes": [
@@ -21,4 +9,3 @@
     }
   ]
 }
->>>>>>> a51e120376e2d7bc4bffe0bb7410d3ca20f4b0ff
